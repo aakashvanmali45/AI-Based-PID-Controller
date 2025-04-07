@@ -11,4 +11,10 @@ Design and optimize a PID controller using AI techniques for precise control of 
 
 ## 🖼️ Screenshots
 
+![Simulink PID Model](screenshots/control_system.png)
+![Plots](screenshots/Plot.png)
+
 ## 🔮Future Scope
+- Defining a Cost Function
+- Use Bayesian OPtimization to find optimal PID Parameters
+- Evaluate the AI optimized and Baseline PID 
