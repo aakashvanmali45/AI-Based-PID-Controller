@@ -11,7 +11,14 @@ Design and optimize a PID controller using AI techniques for precise control of 
 
 ## 🖼️ Screenshots
 
+### PID Simulink Model
 ![Simulink PID Model](screenshots/control_system.png)
+
+### A Baseline PID Controller Plot
+*Output*
+Settling Time: 29.83 seconds
+Overshoot: 111.74°C
+Steady-State Error: 0.00°C
 ![Plots](screenshots/Plot.png)
 
 ## 🔮Future Scope
