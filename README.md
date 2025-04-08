@@ -1,4 +1,4 @@
-# 🤖 AI-based PID Controller (Project Not Completed Yet)
+# 🤖 AI-based PID Controller 
 
 ## 🎯 Objective
 Design and optimize a PID controller using AI techniques for precise control of temperature in a Furnace.
@@ -22,7 +22,14 @@ Steady-State Error: 0.00°C
 
 ![Plots](screenshots/Plot.png)
 
+### AI Based PID Controller Plot
+**Output**
+Settling Time: 0.40 seconds
+Overshoot: 0.00°C
+Steady-State Error: 0.00°C
+![Plots](screenshots/plot_after_optimization.png)
+
 ## 🔮Future Scope
-- Defining a Cost Function
-- Use Bayesian OPtimization to find optimal PID Parameters
-- Evaluate the AI optimized and Baseline PID 
+- Use Reinforcement Learning and Bayesian Optimization Algorithms
+- Add Disturbance to the system and see how the algorithms respond
+- Simulate Real Time data to Finalize the Project
