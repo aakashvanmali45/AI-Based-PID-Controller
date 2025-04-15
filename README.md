@@ -6,6 +6,7 @@ Design and optimize a PID controller using AI techniques for precise control of 
 ## 🧠 Technologies Used
 - MATLAB
 - Simulink
+- Optimization Toolbox
 
 ## 📝You can find my Notes for the project in the notes/ folder
 
